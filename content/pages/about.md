@@ -7,15 +7,12 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, aquí vas a leer un poco sobre mi
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Me pregunto que significa ser yo mismo.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Alejandro Garcia** oriundo de Celaya, reside en Guanajuato
+Este joven se encuentra en la primavera de la juventud con tan solo 23 años de edad.
+Comienza su carrera como developer acercandose a la culminación de su carrera en sistemas computacionales.
+Ansioso, hambriento y dispuesto a dominar la ciencia de datos.
 

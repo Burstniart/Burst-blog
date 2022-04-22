@@ -3,7 +3,6 @@ title: "Git == Github ?"
 date: 2022-04-22
 description: "What's the difference between git and github"
 ---
-
 # What's with all the confusion?
 
 For starters: What brings people to ask this question in the first place?

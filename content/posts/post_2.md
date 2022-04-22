@@ -1,10 +1,10 @@
-﻿
 ---
 title: "Git == Github ?"
 date: 2022-04-22
 description: 'What's the difference between git and github'
 ---
----
+
+Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
 
 # What's with all the confusion?
 

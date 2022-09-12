@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Burst on Burst&#39;s Blog</title>
-    <link>https://burstniart.github.io/burstniart-blog/</link>
+    <link>https://burstniart.github.io/Burst-blog/</link>
     <description>Recent content in Burst on Burst&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://burstniart.github.io/burstniart-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://burstniart.github.io/Burst-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What now?</title>
-      <link>https://burstniart.github.io/burstniart-blog/posts/post_3/</link>
+      <link>https://burstniart.github.io/Burst-blog/posts/post_3/</link>
       <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://burstniart.github.io/burstniart-blog/posts/post_3/</guid>
+      <guid>https://burstniart.github.io/Burst-blog/posts/post_3/</guid>
       <description>I made a deal with the devil  Alright so I should explain myself:
 A couple of months ago I decided I wanted to get a job as a dev as soon as possible in order to start gaining experience so that when I finish college the next year it&amp;rsquo;ll be easier for me to get a job.
 I had just finished a web development bootcamp and surely I thought that wasn’t enough alone to land a 5 figure job as a jr, but it would get me somewhere, so I started sending job requests on a lot of sites until some replied back, long story short only one accepted me and I had to move cities to attend their trainings in Cobol.</description>
@@ -20,10 +20,10 @@ I had just finished a web development bootcamp and surely I thought that wasn’
     
     <item>
       <title>Git == Github ?</title>
-      <link>https://burstniart.github.io/burstniart-blog/posts/post_2/</link>
+      <link>https://burstniart.github.io/Burst-blog/posts/post_2/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://burstniart.github.io/burstniart-blog/posts/post_2/</guid>
+      <guid>https://burstniart.github.io/Burst-blog/posts/post_2/</guid>
       <description>What&amp;rsquo;s with all the confusion? For starters: What brings people to ask this question in the first place?
 People may come to know one or both of this names for various reasons:
  Learning for IT or CS students Downloading some program on their computer Finding a place to save code related files  These are just some examples but we can see a pattern emerging here. Particularly Linux and Unix based OS users are more likely to come accross this names, this is because of the nature of these OS but Windows users will surely catch up eventually.</description>
@@ -31,10 +31,10 @@ People may come to know one or both of this names for various reasons:
     
     <item>
       <title>La cultura de un Desarrollador de software</title>
-      <link>https://burstniart.github.io/burstniart-blog/posts/intro/</link>
+      <link>https://burstniart.github.io/Burst-blog/posts/intro/</link>
       <pubDate>Tue, 05 Apr 2022 18:16:21 -0600</pubDate>
       
-      <guid>https://burstniart.github.io/burstniart-blog/posts/intro/</guid>
+      <guid>https://burstniart.github.io/Burst-blog/posts/intro/</guid>
       <description>Que onda!
 Considero que la cultura para los profesionistas de software se basa en:
  Responsabilidad Laboriosidad Respeto Honestidad  Estos elementos forman parte de la identidad cultural de los desarrolladores, quienes a través del tiempo se han ido uniendo más. Un profesional de software puede venir de cualquier parte del mundo, hablar cualquier idioma, aprender cualquier lenguaje, pero no es solo un lenguaje lo que nos acerca como desarrolladores, sino que algo más dentro de todos nosotros resuena.</description>
@@ -42,20 +42,20 @@ Considero que la cultura para los profesionistas de software se basa en:
     
     <item>
       <title> Mi ruta de aprendizaje.</title>
-      <link>https://burstniart.github.io/burstniart-blog/posts/post_1/</link>
+      <link>https://burstniart.github.io/Burst-blog/posts/post_1/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://burstniart.github.io/burstniart-blog/posts/post_1/</guid>
+      <guid>https://burstniart.github.io/Burst-blog/posts/post_1/</guid>
       <description>Escribe un recuento de todo lo que has aprendido en Launch X desde la semana de inducción, hasta el módulo de Frontend. El cielo es el límite, puedes contarnos qué te ha gustado más, qué te ha gustado menos, qué te ha parecido más difícil. Recuerda que comunicar es una habilidad que se desarrolla con mucha práctica y tiempo.
  Repasé python Aprendí sobre toma de requerimientos Practiqué HTML CSS&amp;hellip; todavía sueños con el proyecto de vacunación JavaScript Vue JS Un poco de que es Angular Una manera de desplegar con Azure  Ese es el aspecto técnico, pero mi experiencia trabajando en cada tema a sido muy diferente: Tratandose de lenguajes python me resultó más sencillo pero JS desperto en mi un interes que me motivaba a aprender más.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://burstniart.github.io/burstniart-blog/pages/about/</link>
+      <link>https://burstniart.github.io/Burst-blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://burstniart.github.io/burstniart-blog/pages/about/</guid>
+      <guid>https://burstniart.github.io/Burst-blog/pages/about/</guid>
       <description>Who am I  Me pregunto que significa ser yo mismo.
  Alejandro Garcia Born and raised in Mexico.
 Young and restless in my 20&amp;rsquo;s, almost done with my Systems engineering degree.

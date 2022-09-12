@@ -2,16 +2,13 @@
 title: Launch X Bitácora de viaje
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
+## The fabulous adventures of a caffeinated man
+Alejandro Garcia AKA Lex / Burst / Burstniart
 
-Hola ✌️  soy el explorer Lex y este es mi blog personal donde compartiré mis aventuras de Launch X.
+- I'm into web development, learning the secrets from JavaScript, more into React and Vue.
 
-Te invito a conocer mis aprendizajes y leer mis experiencias.
+- Current internship working with C, still learning it, Cobol (not a big fan).
 
-Mis expectativas son:
-- Comprender como funciona Backend
-- Aprender a usar Git
-- Complementar mis conocimientos de Frontend
-- Conectar con mas developers
-- Aprender, sacarle el mayor provecho al bootcamp
+- Know the basics of Java and Python, definitely will stretching Python with the studies in data science than I'm planning by the  end of 2022.
 
-🚀
+- Right know I'm new to the whole GNU/Linux world but this has changed my focus towards open source code and collaborating.

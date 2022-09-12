@@ -1,5 +1,5 @@
 ---
-title: Launch X Bitácora de viaje
+title: Burst
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 ## The fabulous adventures of a caffeinated man

@@ -25,7 +25,10 @@ Where I’m going with all of these is that I’m so close of being done and all
 
 The degree will only be a stepping stone in the journey, not looking forward to it, but what I can do with it, I still know I have to sharpen my tools to make it out there, that’s the fun part until the real work begins.
 
-![Hooty is excited](/static/favicon.png "Hooty excited")
+
+![Hooty is excited](static/favicon.png "Hooty excited")
+
+
 ****
 *Intrusive thought of the day:*
 *Man, I'd love to be more social online and engage in other people's projects.*

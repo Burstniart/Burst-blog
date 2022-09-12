@@ -1,4 +1,4 @@
-baseURL = "https://burstniart.github.io/burstniart-blog/"
+baseURL = "https://burstniart.github.io/Burst-blog/"
 languageCode = "en-us"
 title = "Burst's Blog"
 theme = "hugo-winston-theme"

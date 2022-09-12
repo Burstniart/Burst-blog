@@ -2,17 +2,16 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "About Me"
 ---
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi
-
 > Me pregunto que significa ser yo mismo.
 
-**Alejandro Garcia** oriundo de Celaya, reside en Guanajuato
-Este joven se encuentra en la primavera de la juventud con tan solo 23 años de edad.
-Comienza su carrera como developer acercandose a la culminación de su carrera en sistemas computacionales.
-Ansioso, hambriento y dispuesto a dominar la ciencia de datos.
+**Alejandro Garcia** Born and raised in Mexico.
+
+Young and restless in my 20's, almost done with my Systems engineering degree.
+
+Data science has my curiosity, web development my attention and currently with my internship and Uni work I've decided to use all the spare time I can pull to continue in my pursue of knowledge.
 

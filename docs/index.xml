@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Launch X Bitácora de viaje on Bitácora de Viaje</title>
-    <link>https://burstniart.github.io/my_launchx_blog/</link>
-    <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
+    <title>Launch X Bitácora de viaje on Burst&#39;s Blog</title>
+    <link>https://burstniart.github.io/burstniart-blog/</link>
+    <description>Recent content in Launch X Bitácora de viaje on Burst&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://burstniart.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://burstniart.github.io/burstniart-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git == Github ?</title>
-      <link>https://burstniart.github.io/my_launchx_blog/posts/post_2/</link>
+      <link>https://burstniart.github.io/burstniart-blog/posts/post_2/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://burstniart.github.io/my_launchx_blog/posts/post_2/</guid>
+      <guid>https://burstniart.github.io/burstniart-blog/posts/post_2/</guid>
       <description>What&amp;rsquo;s with all the confusion? For starters: What brings people to ask this question in the first place?
 People may come to know one or both of this names for various reasons:
  Learning for IT or CS students Downloading some program on their computer Finding a place to save code related files  These are just some examples but we can see a pattern emerging here. Particularly Linux and Unix based OS users are more likely to come accross this names, this is because of the nature of these OS but Windows users will surely catch up eventually.</description>
@@ -20,10 +20,10 @@ People may come to know one or both of this names for various reasons:
     
     <item>
       <title>La cultura de un Desarrollador de software</title>
-      <link>https://burstniart.github.io/my_launchx_blog/posts/intro/</link>
+      <link>https://burstniart.github.io/burstniart-blog/posts/intro/</link>
       <pubDate>Tue, 05 Apr 2022 18:16:21 -0600</pubDate>
       
-      <guid>https://burstniart.github.io/my_launchx_blog/posts/intro/</guid>
+      <guid>https://burstniart.github.io/burstniart-blog/posts/intro/</guid>
       <description>Que onda!
 Considero que la cultura para los profesionistas de software se basa en:
  Responsabilidad Laboriosidad Respeto Honestidad  Estos elementos forman parte de la identidad cultural de los desarrolladores, quienes a través del tiempo se han ido uniendo más. Un profesional de software puede venir de cualquier parte del mundo, hablar cualquier idioma, aprender cualquier lenguaje, pero no es solo un lenguaje lo que nos acerca como desarrolladores, sino que algo más dentro de todos nosotros resuena.</description>
@@ -31,20 +31,20 @@ Considero que la cultura para los profesionistas de software se basa en:
     
     <item>
       <title> Mi ruta de aprendizaje.</title>
-      <link>https://burstniart.github.io/my_launchx_blog/posts/post_1/</link>
+      <link>https://burstniart.github.io/burstniart-blog/posts/post_1/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://burstniart.github.io/my_launchx_blog/posts/post_1/</guid>
+      <guid>https://burstniart.github.io/burstniart-blog/posts/post_1/</guid>
       <description>Escribe un recuento de todo lo que has aprendido en Launch X desde la semana de inducción, hasta el módulo de Frontend. El cielo es el límite, puedes contarnos qué te ha gustado más, qué te ha gustado menos, qué te ha parecido más difícil. Recuerda que comunicar es una habilidad que se desarrolla con mucha práctica y tiempo.
  Repasé python Aprendí sobre toma de requerimientos Practiqué HTML CSS&amp;hellip; todavía sueños con el proyecto de vacunación JavaScript Vue JS Un poco de que es Angular Una manera de desplegar con Azure  Ese es el aspecto técnico, pero mi experiencia trabajando en cada tema a sido muy diferente: Tratandose de lenguajes python me resultó más sencillo pero JS desperto en mi un interes que me motivaba a aprender más.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://burstniart.github.io/my_launchx_blog/pages/about/</link>
+      <link>https://burstniart.github.io/burstniart-blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://burstniart.github.io/my_launchx_blog/pages/about/</guid>
+      <guid>https://burstniart.github.io/burstniart-blog/pages/about/</guid>
       <description>Who am I Hola, aquí vas a leer un poco sobre mi
  Me pregunto que significa ser yo mismo.
  Alejandro Garcia oriundo de Celaya, reside en Guanajuato Este joven se encuentra en la primavera de la juventud con tan solo 23 años de edad. Comienza su carrera como developer acercandose a la culminación de su carrera en sistemas computacionales. Ansioso, hambriento y dispuesto a dominar la ciencia de datos.</description>
